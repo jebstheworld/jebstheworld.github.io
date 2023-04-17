@@ -24,7 +24,7 @@ text-align: center;
 margin-bottom: 5px;
 margin-left: 5px;
 }
-.jebs-icon span, i {
+.jebs-icon span {
 -webkit-font-smoothing: antialiased;
 color: rgba(var(--dark),1);
 font-size: 30px;
@@ -33,6 +33,11 @@ position: relative;
 top: 12.5px;
 }
 .jebs-icon i {
+-webkit-font-smoothing: antialiased;
+color: rgba(var(--dark),1);
+text-shadow: -1px 0 #f3f3f3, 0 1px #f3f3f3, 1px 0 #f3f3f3, 0 -1px #f3f3f3;
+position: relative;
+top: 12.5px;
 font-size: 25px; 
 }
 .jebs-post b {
