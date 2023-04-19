@@ -21,7 +21,7 @@ top: 0px;
 .jebs-rightside {
 padding: 20px;
 height: 420px;
-width: 240px;
+width: 280px;
 overflow-y: auto;
 overflow-x: hidden;
 background-color: rgba(var(--light),1);
@@ -29,7 +29,7 @@ border-radius: 50px 50px 0px 0px;
 padding-bottom: 0px;
 position: relative;
 left: 510px;
-top: -440px;
+top: -420px;
 }
 .jebs-icon {
 background-color: rgba(var(--dark),.2);
@@ -65,9 +65,9 @@ line-height: 55px;
 }
 .jebs-name-cont::first-letter { color: rgba(var(--dark),1); }
 .jebs-right-1 {
-width: 230px;
+width: 280px;
 background: #fff;
-height: 260px;
+height: 290px;
 margin-left: -20px;
 margin-top: 40px;
 border-radius: 50px 50px 0px 0px;
