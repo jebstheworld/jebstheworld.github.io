@@ -3,12 +3,9 @@ width:800px;
 height: 500px;
 margin: 20px auto;
 }
-.jebs-inner {
-display: grid;
-grid: auto-flow/65% auto;
-}
-.jebs-inner leftside {
+.jebs-leftside {
 padding: 20px;
+width: 450px;
 height: 420px;
 overflow: auto;
 overflow-y: auto;
@@ -17,15 +14,22 @@ border-radius: 50px 50px 0px 0px;
 background-color: #fff;
 padding-bottom: 0px;
 margin-right: 30px;
+position: relative;
+left: 0px;
+top: 0px;
 }
-.jebs-inner rightside {
+.jebs-rightside {
 padding: 20px;
 height: 420px;
+width: 240px;
 overflow-y: auto;
 overflow-x: hidden;
 background-color: rgba(var(--light),1);
 border-radius: 50px 50px 0px 0px;
 padding-bottom: 0px;
+position: relative;
+left: 510px;
+top: -440px;
 }
 .jebs-icon {
 background-color: rgba(var(--dark),.2);
