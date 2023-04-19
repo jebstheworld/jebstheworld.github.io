@@ -51,7 +51,7 @@ top: 12.5px;
 .jebs-name-cont {
 background: #fff;
 border-radius: 50px 50px 50px 50px;
-height: 70px;
+height: 80px;
 width: 240px;
 padding-top: 10px;
 color: #636363;
@@ -61,7 +61,7 @@ font-weight: 700;
 letter-spacing: 1px;
 text-align: left;
 text-transform: uppercase;
-line-height: 55px;
+line-height: 60px;
 }
 .jebs-name-cont::first-letter { color: rgba(var(--dark),1); }
 .jebs-right-1 {
@@ -69,7 +69,7 @@ width: 280px;
 background: #fff;
 height: 290px;
 margin-left: -20px;
-margin-top: 40px;
+margin-top: 30px;
 border-radius: 50px 50px 0px 0px;
 padding: 20px;
 text-align: left;
