@@ -51,7 +51,7 @@ top: 12.5px;
 .jebs-icon i {
 -webkit-font-smoothing: antialiased;
 color: rgba(var(--dark),1);
-font-size: 53px;
+font-size: 35px;
 text-shadow: -1px 0 #f3f3f3, 0 1px #f3f3f3, 1px 0 #f3f3f3, 0 -1px #f3f3f3;
 position: relative;
 top: 22.5px;
