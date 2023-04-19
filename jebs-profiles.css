@@ -81,7 +81,7 @@ color: #636363;
 letter-spacing: 1px;
 text-transform: uppercase;
 }
-.jebs-right-1 i, span {
+.jebs-right-1 i, .jebs-right-1 span {
 color: rgba(var(--dark),1);
 font-size: 20px;
 margin-right: 10px;
