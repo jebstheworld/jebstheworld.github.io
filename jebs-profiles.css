@@ -1,11 +1,11 @@
 .jebs-profile {
 width:800px;
-height: 500px;
+height: 460px;
 margin: 20px auto;
 }
 .jebs-leftside {
 padding: 20px;
-width: 450px;
+width: 470px;
 height: 420px;
 overflow: auto;
 overflow-y: auto;
@@ -111,7 +111,7 @@ color: rgba(var(--dark),1);
 .jebs-left-1-inner::-webkit-scrollbar { display: none; }
 .jebs-left-2 {
 background: rgba(var(--dark),.7);
-margin-top: -45px;
+margin-top: -5px;
 height: 150px;
 padding: 10px;
 border-radius: 50px 50px 0px 0px;
